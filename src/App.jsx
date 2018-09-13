@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Shawn Hassen</h1>
+        <p> All of this F***ing sucks</p>
         <ul>
           <a href="https://shassen.github.io/reaction-arrow-project1/">Reaction Arrow Game</a>
           <a href="https://floating-waters-77222.herokuapp.com/auth/login">News Crews App</a>
