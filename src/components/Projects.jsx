@@ -3,8 +3,9 @@ import React from 'react';
 export default function Projects(props) {
 
   return (
-    <section className="section is-medium">
+    <section className="section is-large">
       <div className="container">
+        <h1 className="headers"><strong>My Projects:</strong></h1><br />
         {/* <a href={props.projects.tff.url}>{props.projects.tff.name}</a> */}
         <a href={props.projects.ra.url}><strong>{props.projects.ra.name}</strong></a>
         <p>Reaction arrow is a fun game you can play with the arrow keys on your keyboard. Test your reaction time
