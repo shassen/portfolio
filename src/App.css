@@ -11,6 +11,10 @@ a {
   color: rgb(66, 57, 57);
 }
 
+.level-item {
+  font-weight: bold;
+}
+
 .profile-img {
   float: left;
   margin-right: 5%;
@@ -36,6 +40,6 @@ a {
 .level {
   padding: 20px 0;
   /* border: 1px solid black; */
-  background-color: #FFF3D6;
+  background-color: rgba(255, 243, 214, 0.801);
 }
 

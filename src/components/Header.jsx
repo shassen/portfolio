@@ -10,7 +10,7 @@ export default function Header(props) {
         <a className="link is-info" href="#projects">Projects</a>
       </p>
       <h1 className="level-item has-text-centered">
-      <strong className="link is-info"><a href="#about">Shawn Hassen</a></strong>
+      <strong className="link is-info"><a href="#home">Shawn Hassen</a></strong>
       </h1>
       <p className="level-item has-text-centered">
         <a className="link is-info" href="#contact">Contact</a>

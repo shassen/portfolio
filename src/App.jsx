@@ -57,7 +57,7 @@ class App extends Component {
 
 
     return (
-      <div className="App">
+      <div id="home" className="App">
         <Header />
         <About name={this.state.info}/>
         <Projects projects={this.state.projects}/>
