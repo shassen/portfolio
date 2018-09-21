@@ -3,7 +3,7 @@ import React from 'react';
 export default function Contact(props) {
 
   return (
-    <section className="section is-medium">
+    <section id="contact" className="section is-medium">
       <div className="container">
         <h1 className="headers"><strong>Contact Me:</strong></h1><br />
         <h1>Email: {props.info.email}</h1>

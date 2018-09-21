@@ -3,7 +3,7 @@ import React from 'react';
 export default function About(props) {
 
   return (
-  <section className="section is-medium">
+  <section id="about" className="section is-medium">
     <div className="container">
       <h1 className="headers"><strong>About Me:</strong></h1><br />
       <div className="profile">
