@@ -1,7 +1,8 @@
 .App {
   /* margin: 0; */
-  background-color: #C19477;
+  background-color: #637EA2;
   letter-spacing: 1.5px;
+  color: white;
 }
 
 a {
@@ -36,6 +37,6 @@ a {
 .level {
   padding: 20px 0;
   /* border: 1px solid black; */
-  background-color: #8DBEB3;
+  background-color: #FFF3D6;
 }
 
