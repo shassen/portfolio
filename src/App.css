@@ -28,6 +28,7 @@ a {
 .profile-img {
   float: left;
   margin-right: 5%;
+  margin-bottom: 3%;
   width: 40%;
   border-radius: 50px;
   box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.3);
