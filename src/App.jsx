@@ -62,7 +62,7 @@ class App extends Component {
         <About name={this.state.info}/>
         <Projects projects={this.state.projects}/>
         <Contact info={this.state.info} social={this.state.contact}/>
-        <Footer name={this.state.info.name}/>
+        {/* <Footer name={this.state.info.name}/> */}
       </div>
         );
       }
