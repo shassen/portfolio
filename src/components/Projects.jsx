@@ -3,7 +3,7 @@ import React from 'react';
 export default function Projects(props) {
 
   return (
-    <section id="projects" className="section is-large">
+    <section id="projects" className="section is-medium">
       <div className="container">
         <h1 className="headers"><strong>My Projects:</strong></h1><br />
         {/* <a href={props.projects.tff.url}>{props.projects.tff.name}</a> */}

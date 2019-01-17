@@ -6,7 +6,7 @@ import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 export default function Contact(props) {
 
   return (
-    <section id="contact" className="section is-medium">
+    <section id="contact" className="section is-small">
       <div className="container">
         <h1 className="headers"><strong>Contact Me:</strong></h1><br />
         <a className="contact" href="mailto:shassen89@gmail.com">< FontAwesomeIcon icon={faEnvelope} /></a>
