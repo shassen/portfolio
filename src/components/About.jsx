@@ -27,7 +27,7 @@ export default function About(props) {
         suggested I learn Javascript, so I did! For six months I practiced coding every night and quickly fell in love with the craft.
         <br />
         <br />
-        Enter General Assembly. I decided to take a leap of faith and enrolled in a web development bootcamp at GA, a 12-week 
+        Insert General Assembly. I decided to take a leap of faith and enrolled in a web development bootcamp at GA, a 12-week 
         immersive program designed to teach students the skills to thrive as a software developer. Here, I learned how to 
         effectively use HTML5, CSS3, Javascript, Node, Express, React, PostgreSQL, Ruby on Rails and design principals to build
         creative web pages and apps. 
